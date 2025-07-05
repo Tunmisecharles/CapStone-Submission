@@ -1,6 +1,6 @@
-# CapStone-Submission
+# **CapStone-Submission**
 
-# 📊 Analysis Report: Amazon Product Review & KMS Inventory SQL Analysis
+# **Analysis Report: Amazon Product Review & KMS Inventory SQL Analysis**
 
 This portfolio contains two business-focused data analysis projects using Excel and SQL Server. The projects demonstrate the application of core analytics skills for uncovering insights, solving real-world business problems, and recommending strategic actions.
 
